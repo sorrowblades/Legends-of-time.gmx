@@ -499,6 +499,11 @@
     <instance objName="obj_tree" x="49" y="515" name="inst_06D29321" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_tree" x="63" y="485" name="inst_8E3CC1CC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_tree" x="49" y="459" name="inst_1271CCBE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_crates" x="416" y="256" name="inst_B1A5CC3F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_tree" x="422" y="10" name="inst_6AFE44F7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_tree" x="488" y="11" name="inst_AE7207BF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_tree" x="408" y="41" name="inst_67ECC83C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_tree" x="370" y="31" name="inst_61E567FD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="bck_tile" x="0" y="736" w="32" h="32" xo="0" yo="544" id="10000002" name="inst_D432B2CC" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

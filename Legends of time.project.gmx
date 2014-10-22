@@ -13,6 +13,7 @@
     <sprite>sprites\spr_main_up</sprite>
     <sprite>sprites\sprite5</sprite>
     <sprite>sprites\spr_house</sprite>
+    <sprite>sprites\spr_crates</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bck_tile</background>
@@ -23,6 +24,7 @@
     <object>objects\obj_hero</object>
     <object>objects\obj_logs</object>
     <object>objects\obj_house</object>
+    <object>objects\obj_crates</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
