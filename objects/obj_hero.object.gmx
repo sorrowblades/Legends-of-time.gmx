@@ -175,6 +175,6 @@ if(keyboard_check(vk_down)){
   <PhysicsObjectKinematic>0</PhysicsObjectKinematic>
   <PhysicsShapePoints>
     <point>16,16</point>
-    <point>16,16</point>
+    <point>14,16</point>
   </PhysicsShapePoints>
 </object>

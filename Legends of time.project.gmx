@@ -14,9 +14,13 @@
     <sprite>sprites\sprite5</sprite>
     <sprite>sprites\spr_house</sprite>
     <sprite>sprites\spr_crates</sprite>
+    <sprite>sprites\spr_title</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bck_tile</background>
+    <backgrounds name="Menu">
+      <background>background\bck_menu</background>
+    </backgrounds>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
@@ -25,9 +29,13 @@
     <object>objects\obj_logs</object>
     <object>objects\obj_house</object>
     <object>objects\obj_crates</object>
+    <objects name="menu">
+      <object>objects\obj_title</object>
+    </objects>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room0</room>
+    <room>rooms\rm_1</room>
+    <room>rooms\rm_menu</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
