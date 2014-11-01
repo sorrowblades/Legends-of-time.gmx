@@ -3,6 +3,7 @@
   <Configs name="configs">
     <Config>Configs\Default</Config>
   </Configs>
+  <datafiles number="1" name="datafiles"/>
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
@@ -14,7 +15,9 @@
     <sprite>sprites\sprite5</sprite>
     <sprite>sprites\spr_house</sprite>
     <sprite>sprites\spr_crates</sprite>
-    <sprite>sprites\spr_title</sprite>
+    <sprites name="Menu">
+      <sprite>sprites\spr_title</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\bck_tile</background>
