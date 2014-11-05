@@ -49,17 +49,33 @@
           <argument>
             <kind>1</kind>
             <string>///Handle Input Logic
+if(keyboard_check(vk_nokey)){
+    sprite_index = spr_main_left
+    image_index = 1
+}
 if(keyboard_check(vk_left)){
     sprite_index = spr_main_left
    phy_position_x -= 1;
+}
+if(keyboard_check(vk_nokey)){
+    sprite_index = spr_main_right
+    image_index = 1
 }
 if(keyboard_check(vk_right)){
     sprite_index = spr_main_right
     phy_position_x += 1;
 }
+if(keyboard_check(vk_nokey)){
+    sprite_index = spr_main_up
+    image_index = 1
+}
 if(keyboard_check(vk_up)){
     sprite_index = spr_main_up
     phy_position_y -= 1;
+}
+if(keyboard_check(vk_nokey)){
+    sprite_index = spr_main_down
+    image_index = 1
 }
 if(keyboard_check(vk_down)){
     sprite_index = spr_main_down
