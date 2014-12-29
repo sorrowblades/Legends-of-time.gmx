@@ -63,13 +63,14 @@
     <option_android_texture_page>1024</option_android_texture_page>
     <option_android_use_test_ads>0</option_android_use_test_ads>
     <option_argumenterrors>True</option_argumenterrors>
+    <option_audioGroupCount>1</option_audioGroupCount>
     <option_author></option_author>
     <option_backimage>nil</option_backimage>
     <option_changed>false</option_changed>
     <option_changeresolution>false</option_changeresolution>
     <option_closeesc>true</option_closeesc>
     <option_colordepth>0</option_colordepth>
-    <option_display_name>GameMaker: Studio</option_display_name>
+    <option_display_name>Legends of Time</option_display_name>
     <option_displayerrors>True</option_displayerrors>
     <option_facebook_app_display_name></option_facebook_app_display_name>
     <option_facebook_appid></option_facebook_appid>
@@ -77,7 +78,7 @@
     <option_freeze>false</option_freeze>
     <option_frequency>0</option_frequency>
     <option_frontimage>nil</option_frontimage>
-    <option_fullscreen>False</option_fullscreen>
+    <option_fullscreen>True</option_fullscreen>
     <option_gameguid>{32410A45-5483-4A27-B0E5-82C5C190CCCE}</option_gameguid>
     <option_gameid>851231221</option_gameid>
     <option_haptic_effects>0</option_haptic_effects>
@@ -109,6 +110,7 @@
     <option_html5_splash_png>Configs\Default\html5\splash.png</option_html5_splash_png>
     <option_html5_texture_page>2048</option_html5_texture_page>
     <option_html5_use_test_ads>0</option_html5_use_test_ads>
+    <option_html5_usebuiltinparticles>True</option_html5_usebuiltinparticles>
     <option_html5_usesplash>False</option_html5_usesplash>
     <option_icon>nil</option_icon>
     <option_in_app_purchase_enable>0</option_in_app_purchase_enable>
@@ -141,6 +143,8 @@
     <option_ios_ipad_retina_splash_png>Configs\Default\ios\iPadRetinasplash.png</option_ios_ipad_retina_splash_png>
     <option_ios_ipad_splash_png>Configs\Default\ios\iPadsplash.png</option_ios_ipad_splash_png>
     <option_ios_iphone5_splash_png>Configs\Default\ios\iPhone5splash.png</option_ios_iphone5_splash_png>
+    <option_ios_iphone6_splash_png>Configs\Default\ios\iPhone6splash.png</option_ios_iphone6_splash_png>
+    <option_ios_iphone6plus_splash_png>Configs\Default\ios\iPhone6Plussplash.png</option_ios_iphone6plus_splash_png>
     <option_ios_iphone_retina_splash_png>Configs\Default\ios\IphoneRetinasplash.png</option_ios_iphone_retina_splash_png>
     <option_ios_iphone_splash_png>Configs\Default\ios\iPhonesplash.png</option_ios_iphone_splash_png>
     <option_ios_major_version>1</option_ios_major_version>
@@ -244,7 +248,8 @@
     <option_savekey>true</option_savekey>
     <option_scale>-1</option_scale>
     <option_scaleprogress>true</option_scaleprogress>
-    <option_sci_UseSCI>false</option_sci_UseSCI>
+    <option_sci_UseSCI>0</option_sci_UseSCI>
+    <option_sci_serverLocation></option_sci_serverLocation>
     <option_screenkey>True</option_screenkey>
     <option_screenshotkey>true</option_screenshotkey>
     <option_shortcircuit>True</option_shortcircuit>
@@ -282,13 +287,13 @@
     <option_use_new_audio>True</option_use_new_audio>
     <option_variableerrors>False</option_variableerrors>
     <option_version>100</option_version>
-    <option_version_build>0</option_version_build>
-    <option_version_company></option_version_company>
+    <option_version_build>1</option_version_build>
+    <option_version_company>LightningFire Games</option_version_company>
     <option_version_copyright></option_version_copyright>
     <option_version_description></option_version_description>
-    <option_version_major>1</option_version_major>
+    <option_version_major>0</option_version_major>
     <option_version_minor>0</option_version_minor>
-    <option_version_product></option_version_product>
+    <option_version_product>Legends of time</option_version_product>
     <option_version_release>0</option_version_release>
     <option_win8_advertising_appid></option_win8_advertising_appid>
     <option_win8_advertising_enable>0</option_win8_advertising_enable>
@@ -325,18 +330,18 @@
     <option_win8_store_logo>Configs\Default\Windows8\logos\logo50.png</option_win8_store_logo>
     <option_win8_texture_page>1024</option_win8_texture_page>
     <option_win8_wide_logo>Configs\Default\Windows8\logos\logo310.png</option_win8_wide_logo>
-    <option_windowcolor>clBlack</option_windowcolor>
-    <option_windows_build_version>0</option_windows_build_version>
-    <option_windows_company_info></option_windows_company_info>
+    <option_windowcolor>$00408000</option_windowcolor>
+    <option_windows_build_version>1</option_windows_build_version>
+    <option_windows_company_info>LightningFire Games</option_windows_company_info>
     <option_windows_copyright_info></option_windows_copyright_info>
     <option_windows_description_info></option_windows_description_info>
     <option_windows_enable_steam>0</option_windows_enable_steam>
     <option_windows_game_icon>Configs\Default\windows\runner_icon.ico</option_windows_game_icon>
     <option_windows_license>Configs\Default\windows\License.txt</option_windows_license>
     <option_windows_mainor_version>0</option_windows_mainor_version>
-    <option_windows_major_version>1</option_windows_major_version>
+    <option_windows_major_version>0</option_windows_major_version>
     <option_windows_nsis_file>Configs\Default\windows\RunnerInstaller.nsi</option_windows_nsis_file>
-    <option_windows_product_info></option_windows_product_info>
+    <option_windows_product_info>Legends of time</option_windows_product_info>
     <option_windows_release_version>0</option_windows_release_version>
     <option_windows_runner_finished>Configs\Default\windows\Runner_finish.bmp</option_windows_runner_finished>
     <option_windows_runner_header>Configs\Default\windows\Runner_header.bmp</option_windows_runner_header>
@@ -407,16 +412,20 @@
     <option_xbone_build_version>0</option_xbone_build_version>
     <option_xbone_description></option_xbone_description>
     <option_xbone_display_name></option_xbone_display_name>
+    <option_xbone_events_manifest_index>-1</option_xbone_events_manifest_index>
     <option_xbone_foreground_text>light</option_xbone_foreground_text>
     <option_xbone_interpolation>-1</option_xbone_interpolation>
     <option_xbone_major_version>0</option_xbone_major_version>
     <option_xbone_minor_version>0</option_xbone_minor_version>
     <option_xbone_publisher></option_xbone_publisher>
     <option_xbone_publisher_display_name></option_xbone_publisher_display_name>
+    <option_xbone_require_xbox_live>0</option_xbone_require_xbox_live>
     <option_xbone_revision_version>0</option_xbone_revision_version>
     <option_xbone_scale>-1</option_xbone_scale>
+    <option_xbone_service_config_id></option_xbone_service_config_id>
     <option_xbone_splash_screen_colour>#FFFFFF</option_xbone_splash_screen_colour>
     <option_xbone_texture_page>1024</option_xbone_texture_page>
+    <option_xbone_title_id></option_xbone_title_id>
   </Options>
   <ConfigConstants/>
 </Config>
