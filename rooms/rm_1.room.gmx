@@ -215,7 +215,7 @@
     <instance objName="obj_tree" x="14" y="262" name="inst_07FAF4C8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_tree" x="132" y="223" name="inst_950FAE5A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_tree" x="102" y="218" name="inst_5AF4BD95" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_tree" x="68" y="217" name="inst_B1FE9FBD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_tree" x="64" y="224" name="inst_B1FE9FBD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_tree" x="13" y="232" name="inst_6572207E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_tree" x="122" y="189" name="inst_CE331733" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_tree" x="82" y="182" name="inst_4826DAA7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -505,6 +505,7 @@
     <instance objName="obj_tree" x="408" y="41" name="inst_67ECC83C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_tree" x="370" y="31" name="inst_61E567FD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_tree" x="736" y="384" name="inst_BCAAD0D9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Roomswitch" x="1026" y="668" name="inst_E34BFE52" locked="0" code="target_x = 48;&#xA;target_y = 106;&#xA;target_r = room2;&#xA;" scaleX="2" scaleY="4" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="bck_tile" x="0" y="736" w="32" h="32" xo="0" yo="544" id="10000002" name="inst_D432B2CC" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
